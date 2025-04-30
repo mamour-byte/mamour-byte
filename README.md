@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Mamour_Dev  👋
 
-<!--
-**mamour-byte/mamour-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Je suis developpeur Full Stack web et mobile , passionnée de technoligie ✨✨ 
+J'exerce dans le freelance et des projets personnels 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I'm currently working on SAFT_APK with Laravel
+- 🌱 I'm currently learning Java
+- 👯 I'm looking to collaborate on ambitious projects 
+- 🤔 I'm looking for help with Java 
+- 💬 Ask about me my love for programming 
+- 📫 How to reach me: contact me 
+- ⚡ Fun fact: euuuhh
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamour-byte&hide=contribs,prs)
