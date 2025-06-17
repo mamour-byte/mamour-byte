@@ -5,7 +5,7 @@ Je suis developpeur Full Stack web et mobile , passionnée de technoligie ✨✨
 J'exerce dans le freelance et des projets personnels 
 
 
-- 🔭 I'm currently working on SAFT_APK with Laravel
+- 🔭 I'm currently working on a NestJS API
 - 🌱 I'm currently learning Java
 - 👯 I'm looking to collaborate on ambitious projects 
 - 🤔 I'm looking for help with Java 
